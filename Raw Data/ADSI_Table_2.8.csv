@@ -1,0 +1,24 @@
+Sl. No.,Category,Sub-Category,Male,Female,Transgender,Total,Percentage Share
+I.,Martal Status,Un-Married,29437,12589,23,42049,24.6
+I.,Martal Status,Married,83713,30771,1,114485,67
+I.,Martal Status,Widowed/ Widower,1505,1013,0,2518,1.5
+I.,Martal Status,Divorcee,638,322,0,960,0.6
+I.,Martal Status,Separated,683,315,1,999,0.6
+I.,Martal Status,Others,1774,981,2,2757,1.6
+I.,Martal Status,Status not known,4974,2181,1,7156,4.2
+Total,Total,Total,122724,48172,28,170924,100
+II.,Economc Status,less than `1 lakh,74632,35218,25,109875,64.3
+II.,Economc Status,`1 lakh & above – less than `5 lakhs,41306,11120,3,52429,30.7
+II.,Economc Status,`5 lakhs & above – less than `10 lakhs,5700,1549,0,7249,4.2
+II.,Economc Status,`10 lakhs and above,1086,285,0,1371,0.8
+Total,Total,Total,122724,48172,28,170924,100
+III.,Educatonal Status,No Education,13633,5949,1,19583,11.5
+III.,Educatonal Status,Primary (upto class–5th),17850,6851,6,24707,14.5
+III.,Educatonal Status,Middle (upto class–8th),22531,8275,4,30810,18
+III.,Educatonal Status,Matriculate/ Secondary (upto class–10th),30540,10345,9,40894,23.9
+III.,Educatonal Status,Hr. Secondary/ Intermediate/ Pre-University (upto class–12th),19993,7195,3,27191,15.9
+III.,Educatonal Status,Diploma/ Certificate/ ITI,2185,551,2,2738,1.6
+III.,Educatonal Status,Graduate and above,6407,2446,1,8854,5.2
+III.,Educatonal Status,Professionals (MBA etc.),525,175,0,700,0.4
+III.,Educatonal Status,Status Not Known,9060,6385,2,15447,9
+Total,Total,Total,122724,48172,28,170924,100

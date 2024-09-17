@@ -1,0 +1,94 @@
+Sl. No.,State/UT/Cities,Number of Suicides - Col. (3),Percentage Share in Total Suicides - Col. (4),Projected Mid -Year Population (in Lakh) - Col. (5),Rate of Suicides (Col.3/Col.5) - Col. (6)
+1,Andhra Pradesh,8908,5.2,530.3,16.8
+2,Arunachal Pradesh,149,0.1,15.5,9.6
+3,Assam,3320,1.9,354.9,9.4
+4,Bihar,702,0.4,1255.3,0.6
+5,Chhattisgarh,8446,4.9,299.5,28.2
+6,Goa,302,0.2,15.7,19.2
+7,Gujarat,9002,5.3,709.3,12.7
+8,Haryana,3783,2.2,299.7,12.6
+9,Himachal Pradesh,644,0.4,74.4,8.7
+10,Jharkhand,2181,1.3,391.4,5.6
+11,Karnataka,13606,8,674.1,20.2
+12,Kerala,10162,5.9,356.8,28.5
+13,Madhya Pradesh,15386,9,858.9,17.9
+14,Maharashtra,22746,13.3,1257.4,18.1
+15,Manipur,26,0,32,0.8
+16,Meghalaya,213,0.1,33.3,6.4
+17,Mizoram,153,0.1,12.3,12.4
+18,Nagaland,49,0,22.2,2.2
+19,Odisha,6140,3.6,460.8,13.3
+20,Punjab,2441,1.4,306,8
+21,Rajasthan,5343,3.1,804.4,6.6
+22,Sikkim,293,0.2,6.8,43.1
+23,Tamil Nadu,19834,11.6,767.1,25.9
+24,Telangana,9980,5.8,379.5,26.3
+25,Tripura,713,0.4,41.2,17.3
+26,Uttar Pradesh,8176,4.8,2340.9,3.5
+27,Uttarakhand,814,0.5,115.6,7
+28,West Bengal,12669,7.4,987.6,12.8
+Total (States),Total (States),166181,97.2,13403,12.4
+29,Andaman and Nicobar Islands,171,0.1,4,42.8
+30,Chandigarh,131,0.1,12.2,10.7
+31,Dadra and Nicobar Haveli and Daman and Diu,205,0.1,12,17.1
+32,Delhi (UT),3417,2,211,16.2
+33,Jammu and Kashmir,323,0.2,135.4,2.4
+34,Ladakh,13,0,3,4.3
+35,Lakshadweep,2,0,0.7,2.9
+36,Puducherry,481,0.3,16.2,29.7
+Total (UTs),Total (UTs),4743,2.8,394.5,12
+Total (All India),Total (All India),170924,100,13797.5,12.4
+37,Agra,289,1.1,17.5,16.5
+38,Ahmedabad,928,3.5,63.5,14.6
+39,Amritsar,49,0.2,11.8,4.2
+40,Asansol,468,1.8,12.4,37.7
+41,Aurangabad,358,1.4,11.9,30.1
+42,Bengaluru,2313,8.8,85,27.2
+43,Bhopal,527,2,18.8,28
+44,Chandigarh (city),131,0.5,10.3,12.7
+45,Chennai,1581,6,87,18.2
+46,Coimbatore,376,1.4,21.5,17.5
+47,Delhi (city),3367,12.8,163.2,20.6
+48,Dhanbad,28,0.1,12,2.3
+49,Durg Bhilainagar,378,1.4,10.6,35.7
+50,Faridabad,350,1.3,14.1,24.8
+51,Ghaziabad,157,0.6,23.6,6.7
+52,Gwalior,307,1.2,11,27.9
+53,Hyderabad,544,2.1,77.5,7
+54,Indore,746,2.8,21.7,34.4
+55,Jabalpur,213,0.8,12.7,16.8
+56,Jaipur,531,2,30.7,17.3
+57,Jamshedpur,118,0.4,13.4,8.8
+58,Jodhpur,219,0.8,11.4,19.2
+59,Kannur,406,1.5,16.4,24.8
+60,Kanpur,430,1.6,29.2,14.7
+61,Kochi,347,1.3,21.2,16.4
+62,Kolkata,283,1.1,141.1,2
+63,Kollam,472,1.8,11.1,42.5
+64,Kota,141,0.5,10,14.1
+65,Kozhikode,284,1.1,20.3,14
+66,Lucknow,361,1.4,29,12.4
+67,Ludhiana,324,1.2,16.1,20.1
+68,Madurai,381,1.4,14.6,26.1
+69,Malappuram,146,0.6,17,8.6
+70,Meerut,34,0.1,14.3,2.4
+71,Mumbai,1501,5.7,184.1,8.2
+72,Nagpur,771,2.9,25,30.8
+73,Nasik,263,1,15.6,16.9
+74,Patna,53,0.2,20.5,2.6
+75,Prayagraj +,116,0.4,12.2,9.5
+76,Pune,1003,3.8,50.5,19.9
+77,Raipur,379,1.4,11.2,33.8
+78,Rajkot,550,2.1,13.9,39.6
+79,Ranchi,187,0.7,11.3,16.5
+80,Srinagar,10,0,12.7,0.8
+81,Surat,1004,3.8,45.9,21.9
+82,Thiruvananthapuram,361,1.4,16.9,21.4
+83,Thrissur,489,1.9,18.6,26.3
+84,Tiruchirappalli,186,0.7,10.2,18.2
+85,Vadodara,271,1,18.2,14.9
+86,Varanasi,163,0.6,14.4,11.3
+87,Vasai Virar,293,1.1,12.2,24
+88,Vijayawada,634,2.4,14.9,42.6
+89,Vishakhapatnam,461,1.8,17.3,26.6
+Total (Cities),Total (Cities),26282,100,1607.2,16.4
