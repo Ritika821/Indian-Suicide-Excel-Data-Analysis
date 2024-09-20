@@ -14,11 +14,11 @@ This project is about the suicide rate in India and comparison between the diffe
 
 ## This Project Includes :
 
-- **Identifing the Problem :** Firstly understood the data and its different variables through my analytical skills.
-- **Data Cleaning and Processing :** Converted the data into Table with Filters, removed all dublicate values, changed data type, used text to column technique to seperate the columns and use of Vlookup etc.
+- **Identifying the Problem :** Firstly understood the data and its different variables through my analytical skills.
+- **Data Cleaning and Processing :** Converted the data into Table with Filters, removed all duplicate values, changed data type, used text to column technique to separate the columns and use of VLOOKUP etc.
 - **Performing Descriptive Analysis :** Inserted different meaningful Pivot table from the processed data and generated KPI from that Pivot.
-- **Data Visualization :** Constructed various significant insights in order to derive relevant informations from Pivot Chart.
-- **Enhanced Formating :** Altered the format of the Charts with the help of Format Painter.
+- **Data Visualization :** Constructed various significant insights in order to derive relevant information from Pivot Chart.
+- **Enhanced Formatting :** Altered the format of the Charts with the help of Format Painter.
 - **Creation of Dashboard :** Created a meaningful dashboards by compiling all the relevant charts together and also inserted additional features like Slicers, Buttons from Macros, Scroll Bar from Developers etc.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -48,7 +48,7 @@ In this Project, I have calculated the total numbers of suicide in India as KPI.
 9. What is the total number of transgender suicides in India 2022 and what is the number of suicides of transgender in the top State/UT ?
 10. Which type of profession has highest number of suicide in India 2022 ?
 11. What is the common education qualification of the suicidal victim in India 2022 ?
-12. Which type of matrital status of the suicidal victim is common in India 2022 ?
+12. Which type of marital status of the suicidal victim is common in India 2022 ?
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -79,13 +79,13 @@ In this Project, I have calculated the total numbers of suicide in India as KPI.
 <a><img src="https://github.com/Ritika821/Indian-Suicide-Excel-Data-Analysis/blob/main/Graphs/5%20Years%20Trend%20Dashboard/Top%205%20State.png" height="200">
 </a></p>
 
-5. In state Maharashtra, the total number of suicide is higher than other states/uts i.e. 113730 in 2022 whereas the state with the lesser number of suicides is Lakshadweep i.e. 2 suicides in 2022 which is best thing for the state.
+5. In state Maharashtra, the total number of suicide is higher than other States/UTs i.e. 113730 in 2022 whereas the state with the lesser number of suicides is Lakshadweep i.e. 2 suicides in 2022 which is best thing for the state.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Indian-Suicide-Excel-Data-Analysis/blob/main/Graphs/Methods%20or%20Causes%20Dashboard/Total%20States%20or%20UTs.png" height="200">
 </a></p>
 
-6. The method of hanging is used by most of the suicidal victim in India in the year 2022 wheras the method of touching electric wire is mostly used for suicides. In Maharashtra, the method that is common for doing suicide is by hanging only in 2022.
+6. The method of hanging is used by most of the suicidal victim in India in the year 2022 whereas the method of touching electric wire is mostly used for suicides. In Maharashtra, the method that is common for doing suicide is by hanging only in 2022.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Indian-Suicide-Excel-Data-Analysis/blob/main/Graphs/Methods%20or%20Causes%20Dashboard/Mode%20or%20Methods.png" height="200">
@@ -115,13 +115,13 @@ In this Project, I have calculated the total numbers of suicide in India as KPI.
 <a><img src="https://github.com/Ritika821/Indian-Suicide-Excel-Data-Analysis/blob/main/Graphs/Status%20Dashboard/Profession.png" height="200">
 </a></p>
 
-11. The most common education qualification of the suicidal victim in overall India is the students upto class 8th standard means the youngsters have the highest number of suicides whereas the professional has the lowest number of suicides in India in year 2022 and when we talk about the top state i.e. Maharashtra, the most common education qualification of the suicidal victim is matriculate or secondary level class students.
+11. The most common education qualification of the suicidal victim in overall India is the students up to class 8th standard means the youngsters have the highest number of suicides whereas the professional has the lowest number of suicides in India in year 2022 and when we talk about the top state i.e. Maharashtra, the most common education qualification of the suicidal victim is matriculate or secondary level class students.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Indian-Suicide-Excel-Data-Analysis/blob/main/Graphs/Status%20Dashboard/Education%20Qualification.png" height="200">
 </a></p>
 
-12. In India, married status are the most common marital status in the suicidal victim in the year 2022 whereas divorsee is the least common marital status among suicidal victim and in case of Maharashtra, married status is still the common one whereas separated one is the rare status in the suicidal victim.
+12. In India, married status are the most common marital status in the suicidal victim in the year 2022 whereas divorcee is the least common marital status among suicidal victim and in case of Maharashtra, married status is still the common one whereas separated one is the rare status in the suicidal victim.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Indian-Suicide-Excel-Data-Analysis/blob/main/Graphs/Status%20Dashboard/Marital%20Status.png" height="200">
@@ -132,7 +132,7 @@ In this Project, I have calculated the total numbers of suicide in India as KPI.
 
 ## Conclusion :
 
-Suicide is a complex and multifaceted issue in India, shaped by a variety of socio-economic, psychological, and cultural factors. High levels of stress due to unemployment, academic pressure, family conflicts, mental health disorders, financial instability, and the stigma around seeking psychological help contribute to the country's suicide rates. Vulnerable groups include farmers, students, and young people, particularly those experiencing social isolation or pressure. Through the help of this report we can analyse that day by day the suicide rate is increasing as the human pressure and responsibilities is increasing. We found that the person with less or lack of resources are the highest amoung the suiciders, the youngsters with lots of pressure due to competitions, eductaion problem, resources, relationships etc. are also have top level in suicide rate and the married perosn who have huge number of responsibilities and family problem are the top members among the suicide victim. This report will help us to prevent the suicide problem from our close ones by focusing upon the toppest section of the victims. Through this we can be able to reduce the rate of Suicide in India.
+Suicide is a complex and multifaceted issue in India, shaped by a variety of socio-economic, psychological, and cultural factors. High levels of stress due to unemployment, academic pressure, family conflicts, mental health disorders, financial instability, and the stigma around seeking psychological help contribute to the country's suicide rates. Vulnerable groups include farmers, students, and young people, particularly those experiencing social isolation or pressure. Through the help of this report we can analyse that day by day the suicide rate is increasing as the human pressure and responsibilities is increasing. We found that the person with less or lack of resources are the highest among the self-killers, the youngsters with lots of pressure due to competitions, education problem, resources, relationships etc. are also have top level in suicide rate and the married person who have huge number of responsibilities and family problem are the top members among the suicide victim. This report will help us to prevent the suicide problem from our close ones by focusing upon the top section of the victims. Through this we can be able to reduce the rate of Suicide in India.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -143,3 +143,4 @@ Suicide is a complex and multifaceted issue in India, shaped by a variety of soc
 - Ritika - Data Analyst
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
